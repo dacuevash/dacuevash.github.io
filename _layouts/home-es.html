@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr" onkeydown="hideMenu(event)">
+  <head>
+    <!--- Include head meta --->
+    {% include shared-head.html %}
+    <title> {{ site.title }} </title>
+  </head>
+  <body>
+    <header>
+      <!--- Inlude header --->
+      {% include header-es.html %}
+    </header>
+
+    <!--- New section for the recent posts main page --->
+    <div class="content" onclick="hideMenuClick()">
+
+      <h1> PUBLICACIONES RECIENTES </h1>
+
+      <!--- Box for the recent posts --->
+      <div class="recent-posts">
+        {% for post in site.categories.es %}
+          {% if post.tags[0] == 'recent' %}
+
+              <div class="recent-post">
+                <a href="{{ post.url }}"> <h2> {{ post.title }} </h2> <p> {{ post.date | date_to_long_string }} </p>  </a>
+              </div>
+
+          {% endif %}
+        {% endfor %}
+
+      </div>
+
+    </div>
+    <footer>
+      <!--- Include header --->
+      {% include footer.html %}
+    </footer>
+
+  </body>
+</html>

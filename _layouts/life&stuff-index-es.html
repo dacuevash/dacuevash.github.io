@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" onkeydown="hideMenu(event)">
+  <head>
+    <!--- Include head meta --->
+    {% include shared-head.html %}
+    <title> {{ site.title }} </title>
+  </head>
+  <body>
+    <header>
+      <!--- Inlude header --->
+      {% include header-es.html %}
+    </header>
+
+    <!--- New section for the recent posts main page --->
+    <div class="content">
+      <h1> PUBLICACIONES SOBRE LA VIDA Y DEMÁS </h1>
+
+      <!--- Box for the recent posts --->
+      <div class="recent-posts">
+
+        {% for post in site.categories.jekyll %}
+          {% if post.categories[0] == 'es' %}
+              <!--- this isn't actually a recent post, but for the sake of simplyfing CSS it'll conserve the class name --->
+              <div class="recent-post">
+                <a href="{{ post.url }}"> <h2> {{ post.title }} </h2> <p> {{ post.date | date_to_long_string }} </p>  </a>
+              </div>
+          {% endif %}
+        {% endfor %}
+
+      </div>
+    </div>
+    <footer>
+      <!--- Include header --->
+      {% include footer.html %}
+    </footer>
+
+  </body>
+</html>

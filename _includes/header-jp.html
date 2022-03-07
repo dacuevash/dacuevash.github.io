@@ -1,0 +1,45 @@
+<section class="header-container">
+  <nav>
+    <a class="logo" href="{{ site.url }}{{ site.baseurl-jp }}"> <h1> {{ site.title }} </h1> </a>
+    <div class="nav-links">
+      <ul>
+        <li> <a href="{{ '/jp/math-index.html' | relative_url }}"> 数学 </a> </li>
+        <li> <a href="{{ '/jp/science-index.html' | relative_url }}"> 科学 </a> </li>
+        <li> <a href="{{ '/jp/technology-index.html' | relative_url }}"> テクノロジー </a> </li>
+        <li> <a href="{{ '/jp/life&stuff-index.html' | relative_url }}"> 生命と物 </a> </li>
+        <li> <a href="{{ '/jp/projects.html' | relative_url }}"> プロジェクト </a> </li>
+        <li> <a href="{{ '/jp/about-me.html' | relative_url }}"> 私について </a> </li>
+        <li>
+          <div class="dropdown">
+            <span class="material-icons" onclick="showMenu()"> language </span>
+            <div class="dropdown-content" id="dropdownContent">
+              <a href="{{ site.url }}{{ site.baseurl }}"> English </a>
+              <a href="{{ site.url }}{{ site.baseurl-es }}"> Español </a>
+              <!--- <a href="{{ site.url }}{{ site.baseurl-jp }}"> 日本語 </a> --->
+            </div>
+          </div>
+
+        </li>
+      </ul>
+    </div>
+  </nav>
+</section>
+
+<script>
+  var langSwitcher = document.getElementById("dropdownContent");
+
+  function showMenu() {
+    langSwitcher.style.display = "block";
+  }
+
+  function hideMenuClick() {
+    langSwitcher.style.display = "none";
+  }
+
+  function hideMenu(event) {
+    var x = event.key;
+    if (x == "Escape") {
+      document.getElementById("dropdownContent").style.display = "none";
+    }
+}
+</script>

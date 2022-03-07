@@ -1,0 +1,45 @@
+<section class="header-container">
+  <nav>
+    <a class="logo" href="{{ site.url }}{{ site.baseurl-es }}"> <h1> {{ site.title }} </h1> </a>
+    <div class="nav-links">
+      <ul>
+        <li> <a href="{{ '/es/math-index.html' | relative_url }}"> MATE </a> </li>
+        <li> <a href="{{ '/es/science-index.html' | relative_url }}"> CIENCIAS </a> </li>
+        <li> <a href="{{ '/es/technology-index.html' | relative_url }}"> TECNOLOGÍA </a> </li>
+        <li> <a href="{{ '/es/life&stuff-index.html' | relative_url }}"> VIDA Y DEMÁS </a> </li>
+        <li> <a href="{{ '/es/projects.html' | relative_url }}"> PROYECTOS </a> </li>
+        <li> <a href="{{ '/es/about-me.html' | relative_url }}"> SOBRE MÍ </a> </li>
+        <li>
+          <div class="dropdown">
+            <span class="material-icons" onclick="showMenu()"> language </span>
+            <div class="dropdown-content" id="dropdownContent">
+              <a href="{{ site.url }}{{ site.baseurl }}"> English </a>
+              <a href="{{ site.url }}{{ site.baseurl-es }}"> Español </a>
+              <!--- <a href="{{ site.url }}{{ site.baseurl-jp }}"> 日本語 </a> --->
+            </div>
+          </div>
+
+        </li>
+      </ul>
+    </div>
+  </nav>
+</section>
+
+<script>
+  var langSwitcher = document.getElementById("dropdownContent");
+
+  function showMenu() {
+    langSwitcher.style.display = "block";
+  }
+
+  function hideMenu() {
+    langSwitcher.style.display = "none";
+  }
+
+  function hideMenu(event) {
+    var x = event.key;
+    if (x == "Escape") {
+      document.getElementById("dropdownContent").style.display = "none";
+    }
+}
+</script>

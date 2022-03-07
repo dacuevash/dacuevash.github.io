@@ -1,10 +1,10 @@
 ---
-layout: post-en
-title:  "Welcome to Jekyll! (English test)"
+layout: post-jp
+title:  "Welcome to Jekyll! (Japanese test)"
 date:   2022-02-23 20:49:49 -0600
 author: Jekyll
 tags: recent
-categories: jekyll
+categories:  jp jekyll
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

@@ -1,4 +1,4 @@
 ---
 layout: info-jp
-title: "Proyectos en los que estoy trabajando"
+title: "プロジェクトで働いています"
 ---

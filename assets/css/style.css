@@ -152,7 +152,7 @@ footer {
   margin-bottom: -79px;
 }
 
-.content:after {
+.content::after {
     content: "";
     display: block;
     height: 79px;

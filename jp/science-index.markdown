@@ -1,3 +1,3 @@
 ---
-layout: science-index-es
+layout: science-index-jp
 ---

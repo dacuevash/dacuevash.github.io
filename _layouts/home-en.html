@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr" onkeydown="hideMenu(event)">
+<html lang="en" dir="ltr" onkeydown="hideLangMenuK(event)">
   <head>
     <!--- Include head meta --->
     {% include shared-head.html %}
@@ -12,7 +12,7 @@
     </header>
 
     <!--- New section for the recent posts main page --->
-    <div class="content" onclick="hideMenuClick()">
+    <div class="content" onclick="hideLangMenu()">
 
       <h1> RECENT POSTS </h1>
 
@@ -24,8 +24,9 @@
 
               <div class="recent-post">
                 <a href="{{ post.url }}">
-                  <h2> {{ post.title }} </h2> <p> {{ post.date | date_to_long_string }} </p>
+                  <h2> {{ post.title }} </h2>
                 </a>
+                <p> {{ post.date | date_to_long_string }} </p>
               </div>
 
           {% endif %}

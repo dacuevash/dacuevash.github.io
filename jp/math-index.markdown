@@ -1,3 +1,3 @@
 ---
-layout: math-index-es
+layout: math-index-jp
 ---

@@ -8,18 +8,19 @@
   <body>
     <header>
       <!--- Inlude header --->
-      {% include header-en.html %}
+      {% include header-jp.html %}
     </header>
 
     <!--- New section for the recent posts main page --->
-    <div class="content" onclick="hideLangMenu()">
-      <h1> SCIENCE POSTS </h1>
+    <div class="content" onclick="hideLangMenu()>
+      <h1> テクノロジーの出版物 </h1>
 
       <!--- Box for the recent posts --->
       <div class="recent-posts">
 
-        {% for post in site.categories.science %}
-          {% if post.categories[0] != 'es' and post.categories[0] != 'jp' %}
+        {% for post in site.categories.tech %}
+          {% if post.categories[0] == 'jp' %}
+              <!--- this isn't actually a recent post, but for the sake of simplyfing CSS it'll conserve the class name --->
               <div class="recent-post">
                 <a href="{{ post.url }}"> <h2> {{ post.title }} </h2> <p> {{ post.date | date_to_long_string }} </p>  </a>
               </div>

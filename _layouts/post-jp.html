@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr" onkeydown="hideMenu(event)">
+<html lang="en" dir="ltr" onkeydown="hideLangMenuK(event)">
   <head>
     {% include shared-head.html %}
     <title> {{ page.title }}</title>
@@ -9,7 +9,7 @@
       {% include header-jp.html %}
     </header>
 
-    <div class="content-wrapper">
+    <div class="content-wrapper" onclick="hideLangMenu()">
       <div class="post-content">
         <h1> {{ page.title }} </h1>
         <h3> Author: {{ page. author }}</h3>

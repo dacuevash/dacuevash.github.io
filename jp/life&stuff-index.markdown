@@ -1,3 +1,3 @@
 ---
-layout: life&stuff-index-es
+layout: life&stuff-index-jp
 ---

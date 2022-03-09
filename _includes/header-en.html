@@ -1,7 +1,8 @@
 <section class="header-container">
   <nav>
     <a class="logo" href="{{ site.url }}"> <h1> {{ site.title }} </h1> </a>
-    <div class="nav-links">
+    <div class="nav-links" id="navLinks">
+      <i class="fas fa-window-close" onclick="hideMenu()"> </i>
       <ul>
         <li> <a href="{{ '/math-index.html' | relative_url }}"> MATH  </a> </li>
         <li> <a href="{{ '/science-index.html' | relative_url }}"> SCIENCE </a> </li>
@@ -11,35 +12,46 @@
         <li> <a href="{{ '/about-me.html' | relative_url }}"> ABOUT ME </a> </li>
         <li>
           <div class="dropdown">
-            <span class="material-icons" onclick="showMenu()"> language </span>
+            <span class="material-icons" onclick="showLangMenu()"> language </span>
             <div class="dropdown-content" id="dropdownContent">
               <a href="{{ site.url }}{{ site.baseurl }}"> English </a>
               <a href="{{ site.url }}{{ site.baseurl-es }}"> Español </a>
               <!--- <a href="{{ site.url }}{{ site.baseurl-jp }}"> 日本語 </a> --->
             </div>
           </div>
-
         </li>
       </ul>
     </div>
+    <i class="fas fa-bars" onclick="showMenu()"></i>
   </nav>
 </section>
 
 <script>
   var langSwitcher = document.getElementById("dropdownContent");
 
-  function showMenu() {
+  function showLangMenu() {
     langSwitcher.style.display = "block";
   }
 
-  function hideMenu() {
+  function hideLangMenu() {
     langSwitcher.style.display = "none";
   }
 
-  function hideMenu(event) {
+  function hideLangMenuK(event) {
     var x = event.key;
     if (x == "Escape") {
       document.getElementById("dropdownContent").style.display = "none";
     }
-}
+  }
+
+  var navLinks = document.getElementById("navLinks");
+
+    function showMenu() {
+      navLinks.style.right = "0";
+    }
+
+    function hideMenu() {
+      navLinks.style.right = "-200px";
+    }
+
 </script>

@@ -1,3 +1,3 @@
 ---
-layout: tech-index-es
+layout: tech-index-jp
 ---

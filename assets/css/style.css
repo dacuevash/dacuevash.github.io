@@ -103,9 +103,8 @@ nav .fas {
 footer {
   height: 79px;
   background-color: #436AED;
+  position: relative;
   width: 100%;
-  bottom:0;
-  left:0;
 }
 
 .footer-container {
@@ -141,6 +140,10 @@ footer {
 }
 
 /* Style for home */
+html body {
+  height: 100%;
+}
+
 .content {
   max-width: 970px;
   position: relative;
@@ -168,6 +171,7 @@ footer {
   display: block;
   background-color: #191919;
   border-radius: 15px;
+  margin-bottom: 4%;
 }
 
 .recent-post {
@@ -192,7 +196,7 @@ footer {
   margin-right: 0;
 }
 
-/* Style for post layout */
+/* Style for post/info layout */
 .content-wrapper {
   margin-top: 3%;
   max-width: 970px;
@@ -202,6 +206,7 @@ footer {
   text-align: left;
   background-color: #191919;
   border-radius: 15px;
+  margin-bottom: 4%;
 }
 
 .post-content {

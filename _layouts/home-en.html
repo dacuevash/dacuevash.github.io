@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr" onkeydown="hideLangMenuK(event)">
   <head>
-    <!--- Include head meta --->
     {% include shared-head.html %}
     <title> {{ site.title }} </title>
   </head>
@@ -19,6 +18,7 @@
       <!--- Box for the recent posts --->
       <div class="recent-posts">
 
+        <!--- There can only be up to 8 recent posts at the same time --->
         {% for post in site.tags.recent %}
           {% if post.categories[0] != 'es' and post.categories[0] != 'jp' %}
 
@@ -36,7 +36,7 @@
 
     </div>
     <footer>
-      <!--- Include header --->
+      <!--- Include footer --->
       {% include footer.html %}
     </footer>
 

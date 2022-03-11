@@ -303,3 +303,9 @@ than 500px */
   }
 
 }
+
+@media(max-width:418px) {
+  .recent-post {
+    padding-bottom: 42px;
+  }
+}

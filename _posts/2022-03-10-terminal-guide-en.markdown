@@ -3,10 +3,13 @@
 layout: post-en
 title: "Command Guide for Mac & Linux Terminal"
 author: "Diego Cuevas"
-date: 2022-03-10
-# dateUpdated needs to be written in a "DD [month] YYYY" format
+# Date format: YYYY-MM-DD HH:MM:SS +/-TTTT
+# Writing the time and UTC offset is kinda necessary to properly arrange the posts in their respective indexes
+date: 2022-03-11 10:42:20 -0600
 dateUpdated:
-tags: recent
+# Recently created posts most have the "recent" tag followed by their category in the "tags" variable. Remove "recent" after a while
+tags: recent technology
+# Posts written in Spanish or Japanese must include the "es" or "jp" category respectively AS THE FIRST one listed. Then write its normal category
 categories: technology
 ---
 ![Terminal Icon](/assets/img/terminal.icon.png){:style="display:block; margin-left:auto; margin-right:auto; width:50%; height:50%; border-radius:15px"}

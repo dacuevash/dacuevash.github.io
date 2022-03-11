@@ -16,7 +16,7 @@
         <!--- Learn how to say "Originally published in Japanese" --->
         <h4> {{ page.date | date_to_long_string }} </h4>
         {% if page.dateUpdated %}
-          <h4> Updated: {{ page.dateUpdated }} </h4>
+          <h4> Updated: {{ page.dateUpdated | date_to_long_string }} </h4>
         {% endif %}
         <br>
         {{ content }}

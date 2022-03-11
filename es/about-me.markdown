@@ -10,7 +10,7 @@ Adoro la ciencia, tecnología, arte, historia y filosofía así que decidí crea
 ideas y gustos que no siempre tengo la oportunidad de compartir con otras personas ya que soy algo introvertido en la vida real. A veces también escribo tutoriales en ciertos temas con los que me encuentro a la hora de estudiar y que me parecen lo suficientemente
 interesantes como para intentar enseñarselos a otras personas.
 <br/><br/>
-Soy un enorme fan de la ciencia-ficción, especialmente de franquicias como Star Wars, Star Trek, Mobile Suit Gundam, Godzilla, Marvel y DC, etc. También me gusta el anime y manga, me puedes encontrar en MyAnimeList [aquí][MyAnimeList-profile]. Si también te interesa qué clase de música escucho aquí está mi [perfil de Apple Music][apple-music-profile] también.
+Soy un enorme fan de la ciencia-ficción, especialmente de franquicias como Star Wars, Star Trek, Mobile Suit Gundam, Evangelion, Godzilla, Marvel y DC, etc. También me gusta el anime y manga, me puedes encontrar en MyAnimeList [aquí][MyAnimeList-profile]. Si te interesa saber qué clase de música escucho aquí está mi [perfil de Apple Music][apple-music-profile] también.
 <br/><br/>
 Sí, soy muy nerd 🙃.
 <br/><br/>

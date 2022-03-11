@@ -10,9 +10,9 @@ I love science, technology, art, music, history and philosophy so I decided to c
 ideas and likes which I seldom have the opportunity to share with other people since I'm a bit introverted in real life. Sometimes I also write tutorials on certain topics I come across while studying and find interesting enough to try to
 teach to other people.
 <br/><br/>
-I am a passionate science-fiction fan, specially franshises such as Star Wars, Star Trek, Mobile Suit Gundam,
+I am a passionate science-fiction fan, specially franshises such as Star Wars, Star Trek, Mobile Suit Gundam, Evangelion,
 Godzilla, Marvel and DC, etc. I also really like anime and manga, you can find me on MyAnimeList
-[here][MyAnimeList-profile]. If you're also curious about what kind of music I like here's my [Apple Music profile][apple-music-profile] too.
+[here][MyAnimeList-profile]. If you're curious about what kind of music I like here's my [Apple Music profile][apple-music-profile] too.
 <br/><br/>
 Yeah I'm a nerd 🙃.
 <br/><br/>

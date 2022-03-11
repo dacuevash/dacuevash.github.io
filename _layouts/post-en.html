@@ -13,6 +13,10 @@
       <div class="post-content">
         <h1> {{ page.title }} </h1>
         <h3> Author: {{ page. author }}</h3>
+        <h4> Originally published: {{ page.date | date_to_long_string }} </h4>
+        {% if page.dateUpdated %}
+          <h4> Updated: {{ page.dateUpdated }} </h4>
+        {% endif %}
         <br>
         {{ content }}
       </div>

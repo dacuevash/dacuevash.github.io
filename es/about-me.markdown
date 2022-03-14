@@ -10,14 +10,16 @@ Adoro la ciencia, tecnología, arte, historia y filosofía así que decidí crea
 ideas y gustos que no siempre tengo la oportunidad de compartir con otras personas ya que soy algo introvertido en la vida real. A veces también escribo tutoriales en ciertos temas con los que me encuentro a la hora de estudiar y que me parecen lo suficientemente
 interesantes como para intentar enseñarselos a otras personas.
 <br/><br/>
-Soy un enorme fan de la ciencia-ficción, especialmente de franquicias como Star Wars, Star Trek, Mobile Suit Gundam, Evangelion, Godzilla, Marvel y DC, etc. También me gusta el anime y manga, me puedes encontrar en MyAnimeList [aquí][MyAnimeList-profile]. Si te interesa saber qué clase de música escucho aquí está mi [perfil de Apple Music][apple-music-profile] también.
-<br/><br/>
+
 Sí, soy muy nerd 🙃.
 <br/><br/>
-Puedo hablar tanto el español como el inglés con fluidez, así que también hay una versión en inglés de este website. Estoy estudiando japonés
-por lo que espero eventualmente poder escribir publicaciones en ese idioma también.
-<br/><br/>
-Mi información de contacto siempre está disponible en el pie de página.
 
-[MyAnimeList-profile]: https://myanimelist.net/profile/dacuevash
-[apple-music-profile]: https://music.apple.com/profile/dacuevash
+Este sitio web fue creado usando Jekyll y es hosteado en GitHub Pages. Si te da curiosidad el diseño o cómo funciona el sitio puedes visitar el [repositorio][website-repository] público. Este es el primer sitio web que he diseñado/programado así que perdón si se ve mal o muy "meh". Voy a procurar ir mejorando el diseño y agregando más features conforme vaya aprendiendo más sobre desarrollo web.
+<br/><br/>
+
+Puedo hablar tanto el español como el inglés con fluidez, así que también hay una versión en inglés de este website con las mismas publicaciones y artículos. Me encanta aprender lenguajes así que si llego a aprender algún otro lo suficientemente bien haré una versión del sitio web en ese idioma atmbién para expandir mi audiencia.
+<br/><br/>
+
+Mi información de contacto siempre está disponible en el pie de página. Siéntete libre de contactarme si tienes alguna queja, sugerencias, preguntas o cualquier cosa que quieras decirme. 
+
+[website-repository]: https://github.com/dacuevash/dacuevash.github.io

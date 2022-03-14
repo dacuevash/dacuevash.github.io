@@ -21,15 +21,16 @@
 title: DIEGO'S HUB
 email: dacuevash@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to DIEGO'S HUB, here you'll find interesting articles about a wide variety of topics
+  written by a normal college student with a big passion for learning and understanding the universe
+  around him. 
 baseurl: ""
 baseurl-es: "/es"
 baseurl-jp: "/jp" # the subpath of your site, e.g. /blog
 url: "https://dacuevash.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dacuevash
 github_username:  dacuevash
+instagram_username: dacuevash
 
 # Build settings
 theme: minima

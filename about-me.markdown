@@ -10,16 +10,20 @@ I love science, technology, art, music, history and philosophy so I decided to c
 ideas and likes which I seldom have the opportunity to share with other people since I'm a bit introverted in real life. Sometimes I also write tutorials on certain topics I come across while studying and find interesting enough to try to
 teach to other people.
 <br/><br/>
-I am a passionate science-fiction fan, specially franshises such as Star Wars, Star Trek, Mobile Suit Gundam, Evangelion,
-Godzilla, Marvel and DC, etc. I also really like anime and manga, you can find me on MyAnimeList
-[here][MyAnimeList-profile]. If you're curious about what kind of music I like here's my [Apple Music profile][apple-music-profile] too.
-<br/><br/>
+
 Yeah I'm a nerd 🙃.
 <br/><br/>
-I'm fluent in both English and Spanish, so this website also has an Spanish version. I'm currently learning Japanese and hope that
-in the future I can start writing some posts in Japanese as well.
-<br/><br/>
-My contact information is available in the footer of the website at all times.
 
-[MyAnimeList-profile]: https://myanimelist.net/profile/dacuevash
-[apple-music-profile]: https://music.apple.com/profile/dacuevash
+This website was created using Jekyll and is hosted on GitHub Pages. If you're curious about the design or how the website works,
+you can visit the public [repository][website-repository]. This is the first website I've ever programmed/designed so sorry of it looks bad or
+too "meh". I will definitely continue to upgrade the design and add more features as I learn more about web development.
+<br/><br/>
+
+I'm fluent in both English and Spanish, so this website also has an Spanish version with the exact same articles and posts.
+I love language learning so hopefully if I become really good at speaking another language I'll add a version of the website in that language to further expand my audience.
+<br/><br/>
+
+My contact information is available in the footer of the website at all times. Feel free to contact me if you've got any issues, suggestions, inquiries or just want to tell me something.
+<br/><br/>
+
+[website-repository]: https://github.com/dacuevash/dacuevash.github.io

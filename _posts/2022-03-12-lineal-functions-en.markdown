@@ -35,7 +35,8 @@ in the y-axis per change in the x-axis. A simple visual way to quickly recognize
 you can find the slope with the following formula:
 
 <div style="text-align: center">
-  $$P_1(x,y), P_2(x,y) \rightarrow m = {y_2 - y_1 \over x_2 - x_1} \rightarrow m = {\Delta y \over \Delta x}$$
+  $$P_1(x,y), P_2(x,y)$$
+  $$ m = {y_2 - y_1 \over x_2 - x_1} \rightarrow m = {\Delta y \over \Delta x} $$
 </div>
 
 ![Linear Slope-intercept Function](/assets/img/linear-slope-func.png){:style="display:block; margin-left:auto; margin-right:auto; width:45%; height:45%; border-radius:15px"}
@@ -51,7 +52,8 @@ Parametric functions actually depend on a third variable, usually denoted with t
 $$x_P$$ and $$y_P$$ are the coordinates of a point by which the line passes, meanwhile $$x_V$$ and $$y_V$$ are the coordinates of a point on a different line running on parallel to the original line. It can be found by doing $$A - B$$, being $$A$$ and $$B$$ two points on the original line.
 
 <div style="text-align: center">
-  $$A - B = (x_A, y_A) - (x_B, y_B) = V(x_V, y_V)$$
+  $$A - B$$
+  $$(x_A, y_A) - (x_B, y_B) = V(x_V, y_V)$$
 </div>
 
 It is sometimes hard to get a good idea of how the function looks like if it's written in parametric form, so it's recommended that you

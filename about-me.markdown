@@ -15,7 +15,7 @@ Yeah I'm a nerd 🙃.
 <br/><br/>
 
 This website was created using Jekyll and is hosted on GitHub Pages. If you're curious about the design or how the website works,
-you can visit the public [repository][website-repository]. This is the first website I've ever programmed/designed so sorry of it looks bad or
+you can visit the public [repository][website-repository]. This is the first website I've ever programmed/designed so sorry if it looks bad or
 too "meh". I will definitely continue to upgrade the design and add more features as I learn more about web development.
 <br/><br/>
 

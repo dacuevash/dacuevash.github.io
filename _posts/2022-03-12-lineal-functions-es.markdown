@@ -34,7 +34,8 @@ el cambio en el eje "y" entre el cambio en el eje "x". Una manera sencilla de re
 con la siguiente formula:
 
 <div style="text-align: center">
-  $$P_1(x,y), P_2(x,y) \rightarrow m = {y_2 - y_1 \over x_2 - x_1} \rightarrow m = {\Delta y \over \Delta x}$$
+  $$P_1(x,y), P_2(x,y) $$
+  $$ m = {y_2 - y_1 \over x_2 - x_1} \rightarrow m = {\Delta y \over \Delta x}$$
 </div>
 
 ![Linear Slope-intercept Function](/assets/img/linear-slope-func.png){:style="display:block; margin-left:auto; margin-right:auto; width:45%; height:45%; border-radius:15px"}
@@ -53,7 +54,8 @@ de un punto en una línea diferente que corre en paralelo a la original. Se pued
 puntos por los que pasa la línea original.
 
 <div style="text-align: center">
-  $$A - B = (x_A, y_A) - (x_B, y_B) = V(x_V, y_V)$$
+  $$A - B $$
+  $$ (x_A, y_A) - (x_B, y_B) = V(x_V, y_V)$$
 </div>
 
 A veces es complicado captar cómo luce la función si esta escrita de forma paramétrica, así que es recomendado convertirla a la forma
@@ -91,5 +93,5 @@ una línea $$CD$$ perpendicular de $$AB$$, usa la siguiente expresión: $$m_{AB}
 Para encontrar la distancia entre dos puntos $$A$$ y $$B$$, usa la siguiente formula:
 
 <div style="text-align: center">
-  $$d = \sqrt{(X_B - X_A)^2 + (y_B - y_A)^2}$$
+  $$d = \sqrt{(x_B - x_A)^2 + (y_B - y_A)^2}$$
 </div>

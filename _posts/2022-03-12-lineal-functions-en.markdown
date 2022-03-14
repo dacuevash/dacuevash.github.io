@@ -88,5 +88,5 @@ perpendicular to $$AB$$, use the following expression: $$m_{AB} \times m_{CD} = 
 To find the distance between two points $$A$$ and $$B$$, use the following formula:
 
 <div style="text-align: center">
-  $$d = \sqrt{(X_B - X_A)^2 + (y_B - y_A)^2}$$
+  $$d = \sqrt{(x_B - x_A)^2 + (y_B - y_A)^2}$$
 </div>

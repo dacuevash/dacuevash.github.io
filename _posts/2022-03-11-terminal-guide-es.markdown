@@ -3,7 +3,7 @@
 layout: post-es
 title: "Guía de Comandos para la Terminal de Mac & Linux"
 author: "Diego Cuevas"
-# Date format: YYYY-MM-DD HH:MM:SS +/-TTTT 
+# Date format: YYYY-MM-DD HH:MM:SS +/-TTTT
 # Writing the time and UTC offset is kinda necessary to properly arrange the posts in their respective indexes
 date: 2022-03-11 10:42:20 -0600
 dateUpdated:
@@ -67,13 +67,12 @@ de comandos y shortcuts útiles para usar mientras se trabaja en la Terminal:
 ### Manejo de discos:
 * ``diskutil`` -> Utilidad de Discos (Mac)
 * ``cd /volumes/[drive]`` -> Accesar memorias USB, tarjetas SD o discos duros (Mac)
-* ``cd /media/[username]/[drive]`` -> Accesar memorias USB, tarjetas SD o discos duros (Linux: Ubuntu, Mint, Kali)
 <br/><br/>
 
 ### Manejo de paquetes:
 * ``port`` -> Administrador de paquetes MacPorts: ``install [package]`` -> Instalar paquete, ``uninstall [package]`` -> Desinstalar paquete (Mac)*
 * ``brew`` -> Administrador de paquetes Homebrew : ``install [package]`` -> Instalar paquete, ``uninstall [package]`` -> Desinstalar paquete (Mac)*
-* ``apt-get`` -> Administrador de paquetes Apt-get: ``install [package]`` -> Instalar paquete, ``remove [package]`` -> Desinstalar paquete (Linux: Ubuntu, Mint, Kali)
+* ``apt`` -> Administrador de paquetes Apt: ``install [package]`` -> Instalar paquete, ``remove [package]`` -> Desinstalar paquete (Linux: Ubuntu, Mint, Kali)
 * ``apk`` -> Administrador de paquetes Apk: ``add [package]`` -> Instalar paquete, ``del [package]`` -> Desinstalar paquete (Linux: Alpine)
 <br/><br/>
 

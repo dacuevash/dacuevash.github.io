@@ -6,7 +6,7 @@ author: "Diego Cuevas"
 # Date format: YYYY-MM-DD HH:MM:SS +/-TTTT
 # Writing the time and UTC offset is kinda necessary to properly arrange the posts in their respective indexes
 date: 2022-03-11 10:42:20 -0600
-dateUpdated:
+dateUpdated: 2022-03-25
 # Recently created posts most have the "recent" tag followed by their category in the "tags" variable. Remove "recent" after a while
 tags: recent technology
 # Posts written in Spanish or Japanese must include the "es" or "jp" category respectively AS THE FIRST one listed. Then write its normal category
@@ -67,13 +67,12 @@ commands and shortcuts to use while in the Terminal:
 ### Disk management:
 * ``diskutil`` -> Disk Utility (Mac)
 * ``cd /volumes/[drive]`` -> Access Flash Drive, SD Card or Hard Drive (Mac)
-* ``cd /media/[username]/[drive]`` -> Access Flash Drive, SD Card or Hard Drive (Linux: Ubuntu, Mint, Kali)
 <br/><br/>
 
 ### Package management:
 * ``port`` -> MacPorts package manager: ``install [package]`` -> Install package, ``uninstall [package]`` -> Uninstall package (Mac)*
 * ``brew`` -> Homebrew package manager: ``install [package]`` -> Install package, ``uninstall [package]`` -> Uninstall package (Mac)*
-* ``apt-get`` -> Apt-get package manager: ``install [package]`` -> Install package, ``remove [package]`` -> Uninstall package (Linux: Ubuntu, Mint, Kali)
+* ``apt`` -> Apt package manager: ``install [package]`` -> Install package, ``remove [package]`` -> Uninstall package (Linux: Ubuntu, Mint, Kali)
 * ``apk`` -> Apk package manager: ``add [package]`` -> Install package, ``del [package]`` -> Uninstall package (Linux: Alpine)
 <br/><br/>
 

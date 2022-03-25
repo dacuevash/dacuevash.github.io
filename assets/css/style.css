@@ -315,4 +315,9 @@ than 500px */
   .recent-post {
     padding-bottom: 42px;
   }
+
+  .MJX-TEX {
+    font-size: 65%;
+    padding: 0;
+  }
 }

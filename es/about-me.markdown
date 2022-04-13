@@ -7,9 +7,7 @@ title: "Sobre mí"
 <br/><br/>
 Hola! Mi nombre es Diego Cuevas y este es mi website. Soy un estudiante de ingeniería de 18 años en la UNAM, México.
 Adoro la ciencia, tecnología, arte, historia y filosofía así que decidí crear este website como una salida para mis pensamientos,
-ideas y gustos que no siempre tengo la oportunidad de compartir con otras personas ya que soy algo introvertido en la vida real. A veces también escribo tutoriales en ciertos temas con los que me encuentro a la hora de estudiar y que me parecen lo suficientemente
-interesantes como para intentar enseñarselos a otras personas.
-<br/><br/>
+ideas y gustos que no siempre tengo la oportunidad de compartir con otras personas ya que soy algo introvertido en la vida real. Escribo artículos sobre temas que encuentro interesantes en una amplía variedad de asignaturas así que que no te extrañe si de repente hablo de historia mexicana y luego acerca de cuál starfighter de Star Wars es mejor.
 
 Sí, soy muy nerd 🙃.
 <br/><br/>
@@ -20,6 +18,6 @@ Este sitio web fue creado usando Jekyll y es hosteado en GitHub Pages. Si te da 
 Puedo hablar tanto el español como el inglés con fluidez, así que también hay una versión en inglés de este website con las mismas publicaciones y artículos. Me encanta aprender lenguajes así que si llego a aprender algún otro lo suficientemente bien haré una versión del sitio web en ese idioma atmbién para expandir mi audiencia.
 <br/><br/>
 
-Mi información de contacto siempre está disponible en el pie de página. Siéntete libre de contactarme si tienes alguna queja, sugerencias, preguntas o cualquier cosa que quieras decirme. 
+Mi información de contacto siempre está disponible en el pie de página. Siéntete libre de contactarme si tienes alguna queja, sugerencias, preguntas o cualquier cosa que quieras decirme.
 
 [website-repository]: https://github.com/dacuevash/dacuevash.github.io

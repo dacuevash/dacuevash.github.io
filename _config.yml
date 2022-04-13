@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: DIEGO'S HUB
-email: dacuevash@protonmail.com
+title: DIEGO'S KNOWLEDGE HUB
+email: dacuevash@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to DIEGO'S HUB, here you'll find interesting articles about a wide variety of topics
   written by a normal college student with a big passion for learning and understanding the universe
-  around him. 
+  around him.
 baseurl: ""
 baseurl-es: "/es"
 baseurl-jp: "/jp" # the subpath of your site, e.g. /blog

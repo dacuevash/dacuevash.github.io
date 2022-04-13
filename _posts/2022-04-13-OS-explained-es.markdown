@@ -15,7 +15,7 @@ categories: es technology
 
 ![Computer OSs](/assets/img/os-image.jpeg){:style="display:block; margin-left:auto; margin-right:auto; width:50%; height:50%; border-radius:15px"} <br>
 
-Un sistema operativo es el software subyacente que permite que una computadora sea realmente útil para los humanos. Sin éste, todos los diferentes componentes físicos de la computadora, como el CPU, GPU, RAM y demás no tendrían ni idea de qué hacer y la computadora sería prácticamente inútil, incluso si pagaste más de $2000 USD por ella. En este artículo voy a hablar un poco sobre ellos para que sepas lo que está pasando la próxima vez que veas a un PCtard y un Apple fanboy peleando por cuál es mejor.
+Un sistema operativo es el software subyacente que permite que una computadora sea realmente útil para los humanos. Sin éste, todos los diferentes componentes físicos de la computadora, como el CPU, GPU, RAM y la unidad de almacenamiento no tendrían ni idea de qué hacer y la computadora sería prácticamente inútil, aún si pagaste más de $2000 USD por ella. En este artículo voy a hablar un poco sobre ellos para que sepas lo que está pasando la próxima vez que veas a un PCtard y un Apple fanboy peleando por cuál es mejor.
 <br><br>
 
 Hoy en día, podemos dividir los sistemas operativos según el dispositivo para el que están diseñados, escritorio o móvil. Los principales sistemas operativos de escritorio son Microsoft Windows, macOS de Apple y las muchas variantes de Linux creadas por la comunidad open source. Comencemos con Linux, ya que es el más interesante de todos.
@@ -24,10 +24,10 @@ Hoy en día, podemos dividir los sistemas operativos según el dispositivo para 
 ### Las maravillas de Linux
 <br>
 
-Linux es un sistema operativo relativamente desconocido entre la gente normal que no está realmente interesada en la tecnología, es un sistema operativo de código abierto, esto significa que CUALQUIER PERSONA puede descargar, usar, modificar y distribuir su código fuente con fines comerciales y no comerciales bajo los términos de su licencia. Los usuarios normales como tú y yo podemos contribuir a su código fuente sin tener que preocuparnos por violar el acuerdo de usuario de una empresa de tecnología. El kernel de Linux se desarrolló originalmente como una copia gratuita de código abierto casi idéntica al sistema operativo UNIX de AT&T, razón por la cual a menudo se le llama sistema operativo UNIX-like.
+Linux es un sistema operativo relativamente desconocido entre la gente normal que no está realmente interesada en la tecnología, es un sistema operativo de código abierto, esto significa que CUALQUIER PERSONA puede descargar, usar, modificar y distribuir su código fuente con fines comerciales y no comerciales bajo los términos de su licencia. Los usuarios normales como tú y yo podemos contribuir a su código fuente sin tener que preocuparnos por violar el acuerdo de usuario de una empresa. El kernel de Linux se desarrolló originalmente como una copia gratuita de código abierto casi idéntica al sistema operativo UNIX de AT&T, razón por la cual a menudo se le llama sistema operativo UNIX-like.
 <br><br>
 
-Debido al enfoque de código abierto, existen varios "sabores" a menudo llamados "distribuciones" o "distros" que utilizan el kernel de Linux, estas distribuciones son independientes la una de la otra y pueden ser muy diferentes entre sí. Algunas de las distribuciones de escritorio más populares son [Debian][debian-website], [Ubuntu][ubuntu-website], [Fedora][fedora-website], [Mint][mint-website], [Kali][kali- website], [Arch][arch-website] y, más recientemente, [Chrome OS][chromeOs-website] han ido ganando terreno en los entornos educativos. Android, el sistema operativo detrás de casi todos los teléfonos inteligentes que no son de Apple en el mundo también usan el kernel de Linux, por lo que en el lado móvil de las cosas, Linux domina absolutamente el mercado. Además, actualmente hay algunos intentos de llevar otros sistemas operativos basados ​​en Linux al mundo de los teléfonos inteligentes, como [Ubuntu Touch][ubuntuTouch-website], en caso de que no quieras estar a merced de Apple o Google.
+Debido al enfoque de código abierto, existen varios sabores a menudo llamados "distribuciones" o "distros" que utilizan el kernel de Linux, estas distribuciones son independientes la una de la otra y pueden ser muy diferentes entre sí. Algunas de las distribuciones de escritorio más populares son [Debian][debian-website], [Ubuntu][ubuntu-website], [Fedora][fedora-website], [Mint][mint-website], [Kali][kali- website], [Arch][arch-website] y, más recientemente, [Chrome OS][chromeOs-website] han ido ganando terreno en los entornos educativos. Android, el sistema operativo detrás de casi todos los teléfonos inteligentes que no son de Apple en el mundo también usan el kernel de Linux, por lo que en el mundo móvil, Linux domina el mercado. Además, actualmente hay algunos intentos de llevar otros sistemas operativos basados ​​en Linux al mundo de los teléfonos inteligentes, como [Ubuntu Touch][ubuntuTouch-website], en caso de que no quieras estar a merced de Apple o Google.
 <br><br>
 
 Debido a que Linux es un sistema operativo "Hecho por la gente, para la gente", no oculta absolutamente nada, puedes cambiar lo que quieras de éste, sin embargo, esto no es necesariamente fácil de hacer, Linux tiene la reputación de ser confuso para los usuarios que vienen de usar otros sistemas operativos más mainstream y, aunque un usuario experto en tecnología probablemente no tendría problemas para acostumbrarse, la mayoría de las personas probablemente se sentirían intimidadas por éste. Es por eso que es más fácil quedarse con el que viene con su computadora, por ejemplo, el próximo sistema operativo que discutiremos en este artículo.
@@ -43,8 +43,9 @@ Ok, pero entonces, ¿qué hace que macOS sea diferente? Prácticamente todo lo d
 <br><br>
 
 Darwin también es el núcleo de todos los demás sistemas operativos de Apple: iOS, iPadOS, watchOS y tvOS. Apple intenta que todos sus sistemas operativos sean coherentes entre sí, por lo que los usuarios de macOS pueden hacer cosas geniales, como usar su iPad como una segunda pantalla para su Mac, o compartir su teclado y mouse entre macOS y iPadOS al mismo tiempo, responder una llamada telefónica desde una Mac y otras utilidades interesantes que solo se pueden hacer dentro del ecosistema de Apple.
+<br<br>
 
-Sin embargo todos sabemos que los productos de Apple tienden a ser costosos, por lo que muchos usuarios prefieren comprar otras computadoras a un costo menor, estas computadoras dirigidas al público en general suelen venir con el sistema operativo más popular y usado del mundo. El siguiente sistema operativo del que hablaremos es...
+Sin embargo todos sabemos que los productos de Apple tienden a ser costosos, por lo que muchos usuarios prefieren comprar otras computadoras a un costo menor, estas computadoras dirigidas al público en general suelen venir con el sistema operativo más popular y usado del mundo, y ese es:
 <br><br>
 
 ### El trono de Windows
@@ -65,14 +66,24 @@ Windows nunca se ha tratado de funcionalidades especiales que ningún otro siste
 Esta conclusión se basa en la información ya establecida y en mis propias opiniones y experiencias usando Linux, macOS y Windows.
 <br><br>
 
-Después de todo lo que he dicho quizás te estés preguntando: ¿Qué sistema operativo es mejor? Bueno, Linux y macOS son especialmente buenos para los programadores que desarrollan software de código abierto o aplicaciones móviles. En caso de que no lo supieras, ¡El internet corre en Linux!, por lo tanto tener un sistema operativo similar a UNIX puede ser útil, no es que Windows no pueda hacer todas estas cosas, como dije anteriormente, Windows puede hacer casi cualquier cosa, pero ciertamente no es una experiencia muy intuitiva y agradable, al menos en mi experiencia. Microsoft incluso lanzó recientemente algo llamado "Windows Subsystem for Linux", que básicamente emula el kernel de Linux en Windows para facilitar la vida de los programadores dentro de Windows, pero aún así no es la misma experiencia que usar Linux o Darwin directamente.
+Después de todo lo que he dicho quizás te estés preguntando: ¿Qué sistema operativo es mejor? Bueno, Linux y macOS son especialmente buenos para los programadores que desarrollan software de código abierto o aplicaciones móviles. En caso de que no lo supieras, ¡El internet corre en Linux!, por lo tanto tener un sistema operativo similar a UNIX puede ser útil, no es que Windows no pueda hacer todas estas cosas, como dije anteriormente, Windows puede hacer casi cualquier cosa, pero ciertamente no es una experiencia muy intuitiva o agradable, al menos en mi experiencia. Microsoft incluso lanzó recientemente algo llamado "Windows Subsystem for Linux", que básicamente emula el kernel de Linux en Windows para facilitar la vida de los programadores de Windows, pero aún así no es la misma experiencia que usar Linux o Darwin directamente.  Aunque la nueva Windows Terminal que salío recientemnte es bastante cool.
 <br><br>
 
 Windows también tiene sus puntos fuertes, por ejemplo, nadie puede negar que Windows es el mejor sistema operativo para los gamers. La mayoría de los juegos AAA sólo corren en Windows y con el soporte de los GPU de NVIDIA y AMD, Windows tiene el poder absoluto cuando se trata de juegos de alta intensidad.
 <br><br>
 
-Como dije en la introducción del artículo, es común ver PCtards (fanboys de PC) y fanboys de Apple peleando por cuál sistema operativo (y, por extensión, qué compañía de computadoras) es mejor. Mi recomendación para ti, querido lector, es que no seas como esos tipos. Windows, Linux y macOS tienen puntos muy buenos y malos, al final vivimos en un mundo libre donde deberías poder elegir el sistema operativo que mejor se adapte a tus necesidades o personalidad y no sentirte avergonzado por tu elección. Así que tómalo con calma y no seas como esos tipos.
+Como dije en la introducción del artículo, es común ver PCtards (fanboys de PC) y fanboys de Apple peleando por cuál sistema operativo (y, por extensión, qué compañía de computadoras) es mejor. Mi recomendación para ti, querido lector, es que no seas como esos tipos. Windows, Linux y macOS tienen puntos muy buenos y malos, al final vivimos en un mundo libre donde deberías poder elegir el sistema operativo que mejor se adapte a tus necesidades o personalidad y no sentirte avergonzado por tu elección, así que tómalo con calma y no seas como esos tipos.
 <br><br>
 
 Ahora sabes qué tipo de sistemas operativos existen, sus diferencias e historias de fondo. ¡Ve y comparte el conocimiento!
 <br><br>
+
+[debian-website]: https://www.debian.org
+[ubuntu-website]: https://ubuntu.com
+[fedora-website]: https://getfedora.org
+[mint-website]: https://linuxmint.com
+[kali-website]: https://www.kali.org
+[arch-website]: https://archlinux.org
+[chromeOs-website]: https://www.google.com/chromebook/chrome-os/
+[ubuntuTouch-website]: https://ubuntu-touch.io
+[darwin-repository]: https://github.com/apple/darwin-xnu

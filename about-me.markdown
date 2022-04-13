@@ -7,8 +7,7 @@ title: "About me"
 <br/><br/>
 Hello! My name is Diego Cuevas and I run this website. I'm an 18 year old engineering student at UNAM, Mexico.
 I love science, technology, art, music, history and philosophy so I decided to create this website as an outlet for my thoughts,
-ideas and likes which I seldom have the opportunity to share with other people since I'm a bit introverted in real life. Sometimes I also write tutorials on certain topics I come across while studying and find interesting enough to try to
-teach to other people.
+ideas and likes which I seldom have the opportunity to share with other people since I'm a bit introverted in real life. I write articles about topics I find interesting in a wide variety of subjects, so don't feel weirded out if you see an article about Mexican history and then one about which Star Wars starfighter is better.
 <br/><br/>
 
 Yeah I'm a nerd 🙃.

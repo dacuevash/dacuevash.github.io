@@ -15,7 +15,7 @@ Sí, soy muy nerd 🙃.
 Este sitio web fue creado usando Jekyll y es hosteado en GitHub Pages. Si te da curiosidad el diseño o cómo funciona el sitio puedes visitar el [repositorio][website-repository] público. Este es el primer sitio web que he diseñado/programado así que perdón si se ve mal o muy "meh". Voy a procurar ir mejorando el diseño y agregando más features conforme vaya aprendiendo más sobre desarrollo web.
 <br/><br/>
 
-Puedo hablar tanto el español como el inglés con fluidez, así que también hay una versión en inglés de este website con las mismas publicaciones y artículos. Me encanta aprender lenguajes así que si llego a aprender algún otro lo suficientemente bien haré una versión del sitio web en ese idioma atmbién para expandir mi audiencia.
+Puedo hablar tanto el español como el inglés con fluidez, así que también hay una versión en inglés de este website con las mismas publicaciones y artículos. Me encanta aprender lenguajes así que si llego a aprender algún otro lo suficientemente bien haré una versión del sitio web en ese idioma también para expandir mi audiencia.
 <br/><br/>
 
 Mi información de contacto siempre está disponible en el pie de página. Siéntete libre de contactarme si tienes alguna queja, sugerencias, preguntas o cualquier cosa que quieras decirme.

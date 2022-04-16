@@ -43,7 +43,7 @@ Ok, pero entonces, ¿qué hace que macOS sea diferente? Prácticamente todo lo d
 <br><br>
 
 Darwin también es el núcleo de todos los demás sistemas operativos de Apple: iOS, iPadOS, watchOS y tvOS. Apple intenta que todos sus sistemas operativos sean coherentes entre sí, por lo que los usuarios de macOS pueden hacer cosas geniales, como usar su iPad como una segunda pantalla para su Mac, o compartir su teclado y mouse entre macOS y iPadOS al mismo tiempo, responder una llamada telefónica desde una Mac y otras utilidades interesantes que solo se pueden hacer dentro del ecosistema de Apple.
-<br<br>
+<br><br>
 
 Sin embargo todos sabemos que los productos de Apple tienden a ser costosos, por lo que muchos usuarios prefieren comprar otras computadoras a un costo menor, estas computadoras dirigidas al público en general suelen venir con el sistema operativo más popular y usado del mundo, y ese es:
 <br><br>

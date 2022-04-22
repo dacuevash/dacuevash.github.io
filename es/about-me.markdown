@@ -8,6 +8,7 @@ title: "Sobre mí"
 Hola! Mi nombre es Diego Cuevas y este es mi website. Soy un estudiante de ingeniería de 18 años en la UNAM, México.
 Adoro la ciencia, tecnología, arte, historia y filosofía así que decidí crear este website como una salida para mis pensamientos,
 ideas y gustos que no siempre tengo la oportunidad de compartir con otras personas ya que soy algo introvertido en la vida real. Escribo artículos sobre temas que encuentro interesantes en una amplía variedad de asignaturas así que que no te extrañe si de repente hablo de historia mexicana y luego acerca de cuál starfighter de Star Wars es mejor.
+<br><br>
 
 Sí, soy muy nerd 🙃.
 <br/><br/>

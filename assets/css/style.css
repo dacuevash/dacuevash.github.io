@@ -27,7 +27,7 @@ header {
 .header-container {
   margin-right: auto;
   margin-left: auto;
-  max-width: 970px;
+  max-width: 1000px;
   background-color: #436AED;
   position: relative;
   display: block;
@@ -57,6 +57,7 @@ nav .fas {
 
 .nav-links {
   margin: 0;
+  padding: 0;
   flex: 1;
   text-align: right;
 }
@@ -72,16 +73,29 @@ nav .fas {
   text-decoration: none;
 }
 
+/* Dropdowns */
+.dropbtn {
+  background-color: #436AED;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #f1f1f1;
+  background-color: #436AED;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
-  right: 5px;
-  top: 40px;
-  border-radius: 15px;
+  right: 4px;
+  top: 24px;
+  border-radius: 1%;
 }
 
 .dropdown-content a {
@@ -90,13 +104,17 @@ nav .fas {
   text-decoration: none;
   display: block;
   text-align: center;
-  border-radius: 15px;
 }
 
 .dropdown-content a:hover {
-  background-color: #ddd;
+  background-color: rgb(47, 49, 149);
 }
 
+.dropdown:hover .dropdown-content {display: block;}
+
+button p {
+  font-size: 120%;
+}
 
 .material-icons {
   position: relative;
@@ -104,8 +122,6 @@ nav .fas {
   top: 5px;
   display: block;
 }
-
-
 
 /* Style for footer */
 footer {
@@ -145,7 +161,7 @@ html body {
 }
 
 .content {
-  max-width: 970px;
+  max-width: 1000px;
   position: relative;
   margin-left: auto;
   margin-right: auto;

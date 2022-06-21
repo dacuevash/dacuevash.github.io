@@ -3,5 +3,5 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 # This is home page for the English version of the website
 
-layout: home-en
+layout: home/home-en
 ---

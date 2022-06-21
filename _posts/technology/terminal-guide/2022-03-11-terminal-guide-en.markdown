@@ -1,6 +1,6 @@
 ---
 # Don't forget to select the correct layout for the language
-layout: post-en
+layout: post/post-en
 title: "Command Guide for Mac & Linux Terminal"
 author: "Diego Cuevas"
 # Date format: YYYY-MM-DD HH:MM:SS +/-TTTT

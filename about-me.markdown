@@ -1,5 +1,5 @@
 ---
-layout: info-en
+layout: info/info-en
 title: "About me"
 ---
 

@@ -1,6 +1,6 @@
 ---
 # Don't forget to select the correct layout for the language
-layout: post-es
+layout: post/post-es
 title: "Sistemas Operativos de Computadora Explicados"
 author: "Diego Cuevas"
 # Date format: YYYY-MM-DD HH:MM:SS +/-TTTT (24 hrs format)

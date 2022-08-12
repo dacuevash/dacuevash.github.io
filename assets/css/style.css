@@ -113,7 +113,7 @@ nav .fas {
 .dropdown:hover .dropdown-content {display: block;}
 
 button p {
-  font-size: 120%;
+  font-size: 141%;
 }
 
 .material-icons {
@@ -300,6 +300,10 @@ than 999px */
     margin-right: 3%;
   }
 
+  button p {
+    font-size: 141%;
+  }
+
 }
 
 /* Style for mobile devices or when
@@ -317,6 +321,10 @@ than 500px */
     font-size: 12.5px;
   }
 
+  button p {
+    font-size: 141%;
+  }
+
 }
 
 @media(max-width:418px) {
@@ -328,4 +336,9 @@ than 500px */
     font-size: 65%;
     padding: 0;
   }
+
+  button p {
+    font-size: 120%;
+  }
+  
 }

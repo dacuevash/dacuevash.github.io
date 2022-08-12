@@ -13,7 +13,7 @@ tags: recent math
 categories: es math
 ---
 
-![Linear Function](/assets/img/linear-func.png){:style="display:block; margin-left:auto; margin-right:auto; width:50%; height:50%; border-radius:15px"}
+![Linear Function](/assets/img/math/linear-functions/linear-func.png){:style="display:block; margin-left:auto; margin-right:auto; width:50%; height:50%; border-radius:15px"}
 <br>
 Una función lineal representa una línea cuando es graficada en un plano bi-dimensional. Hay tres maneras principales de representar la
 ecuación:
@@ -38,7 +38,7 @@ con la siguiente formula:
   $$ m = {y_2 - y_1 \over x_2 - x_1} \rightarrow m = {\Delta y \over \Delta x}$$
 </div>
 
-![Linear Slope-intercept Function](/assets/img/linear-slope-func.png){:style="display:block; margin-left:auto; margin-right:auto; width:45%; height:45%; border-radius:15px"}
+![Linear Slope-intercept Function](/assets/img/math/linear-functions/linear-slope-func.png){:style="display:block; margin-left:auto; margin-right:auto; width:45%; height:45%; border-radius:15px"}
 <br>
 
 Una pendiente positiva hará que la línea ascienda mientras avanza y una negativa hará que descienda.
@@ -74,7 +74,7 @@ Veamos el siguiente ejemplo:
 Como puedes ver, si usamos un programa para graficar la función paramétrica, es la misma que en nuestros ejemplos anteriores: $$ y = x + 3 $$.
 <br><br>
 
-![Linear Parametric Function](/assets/img/linear-param-func.png){:style="display:block; margin-left:auto; margin-right:auto; width:45%; height:45%; border-radius:15px"}
+![Linear Parametric Function](/assets/img/math/linear-functions/linear-param-func.png){:style="display:block; margin-left:auto; margin-right:auto; width:45%; height:45%; border-radius:15px"}
 <br>
 
 ### Otras cosas de las funciones lineales que conviene saber:

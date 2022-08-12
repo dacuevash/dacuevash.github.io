@@ -1,23 +1,25 @@
 <section class="header-container">
   <nav>
-    <a class="logo" href="{{ site.url }}{{ site.baseurl-es }}"> <h1> {{ site.title }} </h1> </a>
+    <a class="logo" href="{{ site.url }}"> <h1> {{ site.title }} </h1> </a>
     <div class="nav-links" id="navLinks">
       <i class="fas fa-window-close" onclick="hideMenu()"> </i>
       <ul>
-        <li> <a href="{{ '/es/math-index.html' | relative_url }}"> MATE </a> </li>
-        <li> <a href="{{ '/es/science-index.html' | relative_url }}"> CIENCIAS </a> </li>
-        <li> <a href="{{ '/es/technology-index.html' | relative_url }}"> TECNOLOGÍA </a> </li>
-        <li>
+        <li> <a href="{{ '/math-index.html' | relative_url }}"> MATEMÁTICAS  </a> </li>
+        <li> <a href="{{ '/science-index.html' | relative_url }}"> CIENCIA </a> </li>
+        <li> <a href="{{ '/technology-index.html' | relative_url }}"> TECNOLOGÍA </a> </li>
+        <!--- <li>
           <div class="dropdown">
-            <button type="button" name="button" class="dropbtn">  <p> OTROS </p> </button>
+            <button type="button" name="button" class="dropbtn">  <p> OTHER </p> </button>
             <div class="dropdown-content" id="dropdownContent">
-              <a href="{{ '/es/philosophy-index.html' | relative_url }}"> FILOSOFÍA </a>
-              <a href="{{ '/es/entertainment-index.html' | relative_url }}"> ENTRETENIMIENTO </a>
+              <a href="{{ '/philosophy-index.html' | relative_url }}"> PHILOSOPHY </a>
+              <a href="{{ '/entertainment-index.html' | relative_url }}"> ENTERTAINMENT </a>
             </div>
           </div>
-        </li>
-        <!--- <li> <a href="{{ '/es/projects.html' | relative_url }}"> PROYECTOS </a> </li> --->
-        <li> <a href="{{ '/es/about-me.html' | relative_url }}"> SOBRE MÍ </a> </li>
+        </li> The "OTHER" button was supposed to be comprised of many more categories but in the end I decided against it. --->
+        <!--- <li> <a href="{{ '/projects.html' | relative_url }}"> PROJECTS </a> </li> 
+        I hope to eventually create something worthy of talking about here --->
+        <li> <a href="{{ '/other-index.html' | relative_url }}"> OTROS </a> </li>
+        <li> <a href="{{ '/about-me.html' | relative_url }}"> ACERCA DE MÍ </a> </li>
         <li>
           <div class="dropdown">
             <button type="button" name="button" class="dropbtn">

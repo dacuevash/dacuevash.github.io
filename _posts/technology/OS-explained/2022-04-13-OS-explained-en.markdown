@@ -13,7 +13,7 @@ tags: recent technology
 categories: technology
 ---
 
-![Computer OSs](/assets/img/os-image.jpeg){:style="display:block; margin-left:auto; margin-right:auto; width:50%; height:50%; border-radius:15px"} <br>
+![Computer OSs](/assets/img/technology/os-explained/os-image.jpeg){:style="display:block; margin-left:auto; margin-right:auto; width:50%; height:50%; border-radius:15px"} <br>
 
 An Operating System is the underlining software that allows a computer to be actually useful for humans. Without it, all the different physical components of the computer like the CPU, GPU, RAM and storage unit would have no idea what to do and the computer would be essentially useless, even if you paid over $2000 USD for it. In this article I'll talk a little about them so that you know what's going on the next time you see a PCtard and an Apple fanboy fighting over which one is better.
 <br><br>

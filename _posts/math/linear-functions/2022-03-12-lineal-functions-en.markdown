@@ -13,7 +13,7 @@ tags: recent math
 categories: math
 ---
 
-![Linear Function](/assets/img/linear-func.png){:style="display:block; margin-left:auto; margin-right:auto; width:50%; height:50%; border-radius:15px"}
+![Linear Function](/assets/img/math/linear-functions/linear-func.png){:style="display:block; margin-left:auto; margin-right:auto; width:50%; height:50%; border-radius:15px"}
 <br>
 A linear function represents a line when graphed onto a two-dimensional plane. There are three main forms to represent the equation:
 <br/><br/>
@@ -39,7 +39,7 @@ you can find the slope with the following formula:
   $$ m = {y_2 - y_1 \over x_2 - x_1} \rightarrow m = {\Delta y \over \Delta x} $$
 </div>
 
-![Linear Slope-intercept Function](/assets/img/linear-slope-func.png){:style="display:block; margin-left:auto; margin-right:auto; width:45%; height:45%; border-radius:15px"}
+![Linear Slope-intercept Function](/assets/img/math/linear-functions/linear-slope-func.png){:style="display:block; margin-left:auto; margin-right:auto; width:45%; height:45%; border-radius:15px"}
 <br>
 
 A positive slope value will result in the line rising while moving forward, a negative slope will make it descend.
@@ -71,7 +71,7 @@ Take for example the following parametric function:
 As you can see, if we use a program to graph the parametric function, it's the same as our previous example function: $$ y = x + 3 $$.
 <br><br>
 
-![Linear Parametric Function](/assets/img/linear-param-func.png){:style="display:block; margin-left:auto; margin-right:auto; width:45%; height:45%; border-radius:15px"}
+![Linear Parametric Function](/assets/img/math/linear-functions/linear-param-func.png){:style="display:block; margin-left:auto; margin-right:auto; width:45%; height:45%; border-radius:15px"}
 <br>
 
 ### Other things to keep in mind about linear functions:

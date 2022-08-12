@@ -12,7 +12,7 @@ tags: recent technology
 # Posts written in Spanish or Japanese must include the "es" or "jp" category respectively AS THE FIRST one listed. Then write its normal category
 categories: es technology
 ---
-![Terminal Icon](/assets/img/terminal.icon.png){:style="display:block; margin-left:auto; margin-right:auto; width:50%; height:50%; border-radius:15px"}
+![Terminal Icon](/assets/img/technology/terminal-guide/terminal.icon.png){:style="display:block; margin-left:auto; margin-right:auto; width:50%; height:50%; border-radius:15px"}
 La Terminal! Aquella app mítica que tal vez te encuentres explorando las apps que hay en tu Mac o PC con Linux. Para la mayoría de las personas este
 es un programa que probablemente nunca usarán, pero para un programador ese es el lugar donde vivirán por el resto de sus días. Aquí hay una lista
 de comandos y shortcuts útiles para usar mientras se trabaja en la Terminal:

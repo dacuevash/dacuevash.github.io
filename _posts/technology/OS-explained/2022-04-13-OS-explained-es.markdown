@@ -13,7 +13,7 @@ tags: recent technology
 categories: es technology
 ---
 
-![Computer OSs](/assets/img/os-image.jpeg){:style="display:block; margin-left:auto; margin-right:auto; width:50%; height:50%; border-radius:15px"} <br>
+![Computer OSs](/assets/img/technology/os-explained/os-image.jpeg){:style="display:block; margin-left:auto; margin-right:auto; width:50%; height:50%; border-radius:15px"} <br>
 
 Un sistema operativo es el software subyacente que permite que una computadora sea realmente útil para los humanos. Sin éste, todos los diferentes componentes físicos de la computadora, como el CPU, GPU, RAM y la unidad de almacenamiento no tendrían ni idea de qué hacer y la computadora sería prácticamente inútil, aún si pagaste más de $2000 USD por ella. En este artículo voy a hablar un poco sobre ellos para que sepas lo que está pasando la próxima vez que veas a un PCtard y un Apple fanboy peleando por cuál es mejor.
 <br><br>

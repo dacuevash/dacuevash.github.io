@@ -1,0 +1,3 @@
+---
+layout: blog/blog-es
+---

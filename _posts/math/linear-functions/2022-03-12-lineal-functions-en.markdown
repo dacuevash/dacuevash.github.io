@@ -8,9 +8,9 @@ author: "Diego Cuevas"
 date: 2022-03-12 10:43:37 -0600
 dateUpdated:
 # Recently created posts most have the "recent" tag followed by their category in the "tags" variable. Remove "recent" after a while
-tags: recent math
+tags: blog math
 # Posts written in Spanish or Japanese must include the "es" or "jp" category respectively AS THE FIRST one listed. Then write its normal category
-categories: math
+categories: en math
 ---
 
 ![Linear Function](/assets/img/math/linear-functions/linear-func.png){:style="display:block; margin-left:auto; margin-right:auto; width:50%; height:50%; border-radius:15px"}

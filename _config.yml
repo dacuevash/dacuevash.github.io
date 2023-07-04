@@ -18,12 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: DIEGO'S JOURNAL
+title: DIEGO'S FILES
 email: dacuevash@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to DIEGO'S JOURNAL, here you'll find interesting articles about a wide variety of topics
-  written by a normal college student with a big passion for learning and understanding the universe
-  around him.
+  Hello, my name is Diego Cuevas, third year engineering student. There's no real reason to this website other than to seem cool.
 baseurl: ""
 baseurl-es: "/es"
 baseurl-jp: "/jp" # the subpath of your site, e.g. /blog

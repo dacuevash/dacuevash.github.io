@@ -1,3 +1,0 @@
----
-layout: science-index-jp
----

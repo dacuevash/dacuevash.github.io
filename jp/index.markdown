@@ -1,3 +1,4 @@
 ---
-layout: home-jp
+layout: home/home-jp
 ---
+

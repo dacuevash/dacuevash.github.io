@@ -8,7 +8,7 @@ author: "Diego Cuevas"
 date: 2022-04-13 00:57:00 -0500
 dateUpdated:
 # Recently created posts most have the "recent" tag followed by their category in the "tags" variable. Remove "recent" after a while
-tags: recent technology
+tags: blog technology
 # Posts written in Spanish or Japanese must include the "es" or "jp" category respectively AS THE FIRST one listed. Then write its normal category
 categories: es technology
 ---

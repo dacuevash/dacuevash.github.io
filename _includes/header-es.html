@@ -1,12 +1,9 @@
 <section class="header-container">
   <nav>
-    <a class="logo" href="{{ site.url }}"> <h1> {{ site.title }} </h1> </a>
+    <a class="logo" href="{{ site.baseurl-es }}"> <h1> {{ site.title }} </h1> </a>
     <div class="nav-links" id="navLinks">
       <i class="fas fa-window-close" onclick="hideMenu()"> </i>
       <ul>
-        <li> <a href="{{ '/math-index.html' | relative_url }}"> MATEMÁTICAS  </a> </li>
-        <li> <a href="{{ '/science-index.html' | relative_url }}"> CIENCIA </a> </li>
-        <li> <a href="{{ '/technology-index.html' | relative_url }}"> TECNOLOGÍA </a> </li>
         <!--- <li>
           <div class="dropdown">
             <button type="button" name="button" class="dropbtn">  <p> OTHER </p> </button>
@@ -16,10 +13,9 @@
             </div>
           </div>
         </li> The "OTHER" button was supposed to be comprised of many more categories but in the end I decided against it. --->
-        <!--- <li> <a href="{{ '/projects.html' | relative_url }}"> PROJECTS </a> </li> 
-        I hope to eventually create something worthy of talking about here --->
-        <li> <a href="{{ '/other-index.html' | relative_url }}"> OTROS </a> </li>
-        <li> <a href="{{ '/about-me.html' | relative_url }}"> ACERCA DE MÍ </a> </li>
+        <li> <a href="{{ 'es/blog.html' | relative_url }}"> BLOG </a> </li>
+        <!--- I hope to eventually create something worthy of talking about here --->
+        <li> <a href="{{ 'es/projects.html' | relative_url }}"> PROYECTOS </a> </li> 
         <li>
           <div class="dropdown">
             <button type="button" name="button" class="dropbtn">
@@ -28,6 +24,7 @@
             <div class="dropdown-content" id="dropdownContent">
               <a href="{{ site.url }}{{ site.baseurl }}"> English </a>
               <a href="{{ site.url }}{{ site.baseurl-es }}"> Español </a>
+			  <!--- It would be nice to have a Japanese version eventually --->
               <!--- <a href="{{ site.url }}{{ site.baseurl-jp }}"> 日本語 </a> --->
             </div>
           </div>

@@ -8,9 +8,9 @@ author: "Diego Cuevas"
 date: 2022-06-27 23:59:00 -0500
 dateUpdated:
 # Recently created posts most have the "recent" tag followed by their category in the "tags" variable. Remove "recent" after a while
-tags: recent science
+tags: blog science
 # Posts written in Spanish or Japanese must include the "es" or "jp" category respectively AS THE FIRST one listed. Then write its normal category
-categories: science
+categories: en science
 ---
 
 The word "Thermodynamics" itself literally means "The dynamics of heat", but that's kind of a half-assed definition so let's try the following one that my first semester physics professor told me: "It's the science that deals with fenomena related to the tranformation and exchange of energy and related properties of substances", now that sounds better but if you want a truly solid definition here's what Wikipedia says: "Thermodynamics is a branch of physics that deals with heat, work, and temperature, and their relation to energy, entropy, and the physical properties of matter and radiation.", that sounds more professional. 
@@ -58,10 +58,4 @@ $$ {C \over m} $$ and its unit is: [J/Kg·K] (Joules over Kilogram times kelvin)
 The basic formula you can use to calculate heat exchange between two bodies is: <br>
 $$ \Delta Q = m·c_p·\Delta T $$, where $$ Q $$ represents heart or energy, $$ m $$ is mass and $$ T $$ is temperature.
 <br><br>
-
-I'll attach the following example exercises to help you visualize these concepts better: [Download here](). 
-<br><br>
-
-Good luck!
-
 

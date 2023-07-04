@@ -1,3 +1,4 @@
 # Code for my personal website/blog
 
-Feel free to copy &/or modify the design if you happen to like it.  
+This is he code for my personal website that I made for no real reason other than to seem cool.
+

@@ -8,9 +8,9 @@ author: "Diego Cuevas"
 date: 2022-03-11 10:42:20 -0600
 dateUpdated: 2022-03-25
 # Recently created posts most have the "recent" tag followed by their category in the "tags" variable. Remove "recent" after a while
-tags: recent technology
+tags: blog technology
 # Posts written in Spanish or Japanese must include the "es" or "jp" category respectively AS THE FIRST one listed. Then write its normal category
-categories: technology
+categories: en technology
 ---
 ![Terminal Icon](/assets/img/technology/terminal-guide/terminal.icon.png){:style="display:block; margin-left:auto; margin-right:auto; width:50%; height:50%; border-radius:15px"}
 The Terminal! That mythical app you may come across while exploring your Mac's or Linux PC's apps. For most people it's a utility program which

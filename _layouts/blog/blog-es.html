@@ -1,0 +1,45 @@
+<html lang="en" dir="ltr" onkeydown="hideLangMenu(event)">
+
+  <head>
+    {% include shared-head.html %}
+    <title> {{ site.title }} </title>
+  </head>
+  <body>
+    <header>
+      <!--- Inlude header --->
+      {% include header-es.html %}
+    </header>
+
+  <div class="content" onclick="hideLangMenu()">
+
+	<!--- Box for blog posts --->
+      <div class="recent-posts">
+
+        <h1> PUBLICACIONES DE BLOG </h1>
+        {% for post in site.tags.blog %}
+          {% if post.categories[0] != 'en' and post.categories[0] != 'jp' %}
+
+              <div class="recent-post">
+                <a href="{{ post.url }}">
+                  <h2> {{ post.title }} </h2>
+                </a>
+                <p> {{ post.date | date_to_long_string }} | {{ post.tags | array_to_sentence_string: "-" }} </p> 
+              </div>
+
+          {% endif %}
+        {% endfor %}
+
+      </div>
+
+    </div>
+    <footer>
+	  <!--- Include footer -->
+	  {% include footer.html %}
+    </footer>
+  </body>
+</html>
+
+
+
+
+

@@ -15,7 +15,7 @@ Hello, my name is Diego Cuevas, I'm a 20 year old college student from Mexico Ci
 
 <br>
 
-I have a vast array of interests, mainly those that relate to science and technology. I am decently good at maths, I love physics and I am quite fascinated with computers and machines. However, I'm not all left-brained, I'm also an amateur photographer and novelist who loves exploring philosophy and abstract notions with art. 
+I have a vast array of interests, mainly those that relate to science and technology. I am decently good at maths, I love physics and I am quite fascinated with computers and machines. However, I'm not all left-brained, I'm also an amateur photographer.
 
 <br>
 

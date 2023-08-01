@@ -12,7 +12,7 @@ Hola, mi nombre es Diego Cuevas, tengo 20 años y soy estudiante de universidad 
 
 <br>
 
-Tengo una amplia gama de intereses, principalmente relacionados con la ciencia y la tecnología. Soy decentemente bueno en matemáticas, me encanta la física y me fascinan las computadoras y las máquinas. Sin embargo, no todo es lógica para mí, también soy un fotógrafo y novelista amateur a quien le encanta explorar la filosofía y las nociones abstractas a través del arte.
+Tengo una amplia gama de intereses, principalmente relacionados con la ciencia y la tecnología. Soy decentemente bueno en matemáticas, me encanta la física y me fascinan las computadoras y las máquinas. También soy fotógrafo en mis ratos libres.
 
 <br>
 

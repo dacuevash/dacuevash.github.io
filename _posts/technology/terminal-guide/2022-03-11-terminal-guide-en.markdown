@@ -13,9 +13,7 @@ tags: blog technology
 categories: en technology
 ---
 ![Terminal Icon](/assets/img/technology/terminal-guide/terminal.icon.png){:style="display:block; margin-left:auto; margin-right:auto; width:50%; height:50%; border-radius:15px"}
-The Terminal! That mythical app you may come across while exploring your Mac's or Linux PC's apps. For most people it's a utility program which
-they'll probably never use, but for a programmer it's where they'll live the rest of their lives. Here's a comprehensive list of useful
-commands and shortcuts to use while in the Terminal:
+The Terminal! That mythical app you may come across while exploring your Mac's or Linux PC's apps. For most people it's an utility program which they'll probably never use, but for a programmer it's where they'll live the rest of their lives. Here's a comprehensive list of useful commands and shortcuts to use while in the Terminal:
 <br/><br/>
 
 ### Shortcuts:

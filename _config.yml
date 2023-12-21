@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: DIEGO'S FILES
-email: dacuevash@pm.me
+title: DIEGO'S ONLINE HUT
+email: diego.cuevash@ingenieria.unam.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Hello, my name is Diego Cuevas, third year engineering student. There's no real reason to this website other than to seem cool.
 baseurl: ""

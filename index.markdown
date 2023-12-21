@@ -4,7 +4,7 @@
 # This is home page for the English version of the website
 
 layout: home/home-en
-title: "Diego's Files"
+title: "Diego's Online Hut"
 ---
 
 ![My best picture](/assets/img/me.JPG){:style="display:block; margin-left:auto; margin-right:auto; width:50%; height:50%; border-radius:15px"}
@@ -19,4 +19,4 @@ I have a vast array of interests, mainly those that relate to science and techno
 
 <br>
 
-I hope this serves as a basic introduction to who I am, and if you want to get to know me better, by all means reach out to me 😃
+I hope this serves as a basic introduction to who I am, why did I decide to make this website? To impress Computer Engineering girls, is it going well? Not at all. 

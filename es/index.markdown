@@ -16,4 +16,4 @@ Tengo una amplia gama de intereses, principalmente relacionados con la ciencia y
 
 <br>
 
-Espero que esto sirva como una introducción básica sobre quién soy, y si deseas conocerme mejor, no dudes en contactarme 😃
+Espero que esto sirva como una introducción básica sobre quién soy, por qué hice este sitio web? Para impresionar a las chicas de Ingeniería en Computación, me está yendo bien? Para nada.

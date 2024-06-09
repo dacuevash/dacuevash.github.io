@@ -8,12 +8,33 @@ layout: home/home-es
 
 <br>
 
-Hola, mi nombre es Diego Cuevas, tengo 20 años y soy estudiante de universidad en la Ciudad de México. Actualmente estoy inscrito en la UNAM (Universidad Nacional Autónoma de México) estudiando ingeniería aeroespacial.
+Hola, mi nombre es Diego Cuevas, tengo 20 años y soy estudiante de universidad en la Ciudad de México. Actualmente estoy inscrito en la Facultad de Ingeniería de la UNAM, estudiando ingeniería aeroespacial.
 
 <br>
 
-Tengo una amplia gama de intereses, principalmente relacionados con la ciencia y la tecnología. Soy decentemente bueno en matemáticas, me encanta la física y me fascinan las computadoras y las máquinas. También soy fotógrafo en mis ratos libres.
+Este es mi sitio web personal, en el menú superior podrás encontrar dos secciones de este sitio:
 
 <br>
 
-Espero que esto sirva como una introducción básica sobre quién soy, por qué hice este sitio web? Para impresionar a las chicas de Ingeniería en Computación, me está yendo bien? Para nada.
+1. Mi portafolio de proyectos
+2. Publicaciones de blog sobre cosas random
+
+<br>
+
+Puede que haya más secciones en el futuro, estén al pendiente!
+
+<br>
+
+Este sitio fue creado utilizando Jekyll y es hosteado en GitHub Pages. Puedes visitar el [repositorio][website-repository] público.
+
+<br>
+
+Mi infomación de contacto está en la parte de abajo en todo momento.
+
+<br>
+
+[website-repository]: https://github.com/dacuevash/dacuevash.github.io
+
+
+<br>
+

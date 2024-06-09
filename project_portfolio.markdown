@@ -1,8 +1,8 @@
 ---
 # Since I'm not working on any projects right now, or at least nothing too interesting, this page will not be accesible
- 
+
 layout: info/info-en
-title: "Projects"
+title: "Project Portfolio"
 ---
 
 I'm not currently working on anything, or have anything cool enough to talk about here, please wait.

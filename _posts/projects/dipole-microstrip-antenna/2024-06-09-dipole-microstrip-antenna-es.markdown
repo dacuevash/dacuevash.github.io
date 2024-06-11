@@ -68,7 +68,7 @@ El software utilizado para la simulación por computadora fue CST Studio Suite d
 * Ejecuté dos simulaciones, considerando dos posiciones diferentes del puerto de la guía de onda, ya que el documento original no dice explícitamente dónde está conectado el cable coaxial. <br><br>
 
 El modelo 3D hecho en CST Studio: <br><br>
-![antenna-3D-model](/assets/img/projects/microstrip-dipole-antenna/antenna_CAD.png){:style="display:block; margin-left:auto; margin-right:auto; width:70%; height:70%; border-radius:15px"} <br><br>
+![antenna-3D-model](/assets/img/projects/microstrip-dipole-antenna/Antenna_CAD.png){:style="display:block; margin-left:auto; margin-right:auto; width:70%; height:70%; border-radius:15px"} <br><br>
 
 
 ### Primera simulación

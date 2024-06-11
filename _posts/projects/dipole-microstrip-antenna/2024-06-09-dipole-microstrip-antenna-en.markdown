@@ -68,7 +68,7 @@ The software used to simulate this project was CST Studio Suite by Dassault Syst
 * I ran two simulations, considering two different waveguide port positions since the original paper doesn't explicitly say where the coaxial cable is connected. <br><br>
 
 The 3D model made in CST Studio: <br><br>
-![antenna-3D-model](/assets/img/projects/microstrip-dipole-antenna/antenna_CAD.png){:style="display:block; margin-left:auto; margin-right:auto; width:70%; height:70%; border-radius:15px"} <br><br>
+![antenna-3D-model](/assets/img/projects/microstrip-dipole-antenna/Antenna_CAD.png){:style="display:block; margin-left:auto; margin-right:auto; width:70%; height:70%; border-radius:15px"} <br><br>
 
 
 ### First simulation

@@ -4,7 +4,7 @@
 layout: home/home-es
 ---
 
-![Mi mejor foto](/assets/img/me.JPG){:style="display:block; margin-left:auto; margin-right:auto; width:50%; height:50%; border-radius:15px"}
+![Mi mejor foto](/assets/img/Me-2.png){:style="display:block; margin-left:auto; margin-right:auto; width:50%; height:50%; border-radius:15px"}
 
 <br>
 
@@ -21,7 +21,7 @@ Este es mi sitio web personal, en el menú superior podrás encontrar dos seccio
 
 <br>
 
-Puede que haya más secciones en el futuro, estén al pendiente!
+Seguramente habrá más secciones eventualmente.
 
 <br>
 

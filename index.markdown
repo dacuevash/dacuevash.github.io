@@ -7,7 +7,7 @@ layout: home/home-en
 title: "DC⚡︎ONLINE"
 ---
 
-![My best picture](/assets/img/me.JPG){:style="display:block; margin-left:auto; margin-right:auto; width:50%; height:50%; border-radius:15px"}
+![My best picture](/assets/img/Me-2.png){:style="display:block; margin-left:auto; margin-right:auto; width:50%; height:50%; border-radius:15px"}
 
 <br>
 

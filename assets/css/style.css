@@ -18,6 +18,11 @@ html {
   min-width: 100%;
 }
 
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
 /* Style for headers */
 
 header {
@@ -177,7 +182,7 @@ html body {
 }
 
 .content h1 {
-  padding-top: 1.6%;
+  padding-top: 2%;
   margin-top: 20px;
   margin-bottom: 20px;
   font-weight: 400;
@@ -332,11 +337,16 @@ than 500px */
     font-size: 141%;
   }
 
+  .content h1 {
+    padding-top: 5%;;
+  }
+
 }
 
 @media(max-width:418px) {
+  
   .recent-post {
-    padding-bottom: 42px;
+    padding-bottom: 10%;
   }
 
   .MJX-TEX {
@@ -348,4 +358,23 @@ than 500px */
     font-size: 120%;
   }
   
+}
+
+
+/* Special formatting for embedded videos and tables 
+when screen width is equal to or less than 695px */
+@media(max-width:695px) {
+
+  iframe {
+    width: 245px;
+    height: 150px;
+  }
+
+}
+
+/* Other special formatting */
+@media(max-width:615px) {
+  .recent-posts {
+    padding-bottom: 5%;
+  }
 }
